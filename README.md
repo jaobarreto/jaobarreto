@@ -1,4 +1,9 @@
-💻 Olá, meu nome é João Barreto<br><br>🌿 Atualmente estou estudando Desenvolvimento de Software Multiplataforma na Fatec Registro<br><br>🦕 Java, Javascript e python <br><br>🦐 Eu tenho como hobbie ler mangás e jogar basquete
+# 💻 Olá, meu nome é João Barreto
+
+- 🌿 Atualmente estou estudando Desenvolvimento de Software Multiplataforma na Fatec Registro
+- 🦕 Java, Javascript e Python
+- 🦐 Eu tenho como hobbie ler mangás e jogar basquete
+
 <hr>
 <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaobarreto&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Estatísticas do GitHub">
 <hr>
