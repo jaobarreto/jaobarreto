@@ -5,7 +5,9 @@
 - 🦐 Eu tenho como hobbie ler mangás e jogar basquete
 
 <hr>
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaobarreto&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Estatísticas do GitHub">
+<div align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaobarreto&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Estatísticas do GitHub">
+</div>
 <hr>
 <div align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -29,9 +31,9 @@
   </a>
 </div>
  <hr>
-       
+<div align="center">
 <img height="300px" src="https://pa1.aminoapps.com/6996/d2246a441e14e002b4273afd8661305fa371dce5r1-500-281_hq.gif"/>
-
+</div>
 
 <br clear="both">
 
