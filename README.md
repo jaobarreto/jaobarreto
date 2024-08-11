@@ -6,7 +6,7 @@
 
 <hr>
 <div align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaobarreto&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Estatísticas do GitHub">
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaobarreto&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Estatísticas do GitHub">
 </div>
 <hr>
 <div align="left">
