@@ -1,7 +1,7 @@
 # 💻 Olá, meu nome é João Barreto
 
 - 🌿 Atualmente estou estudando Desenvolvimento de Software Multiplataforma na Fatec Registro
-- 🦕 Java, Javascript e Python
+- 🦕 Nodejs, Javascript e Typescript
 - 🦐 Eu tenho como hobbie ler mangás e jogar basquete
 
 <hr>
