@@ -1,8 +1,8 @@
 # 💻 Hello, my name is João Barreto
 
-- 🌿 I am currently studying Multiplatform Software Development at Fatec Registro
-- 🦕 Node.js, Javascript, and Typescript
-- 🦐 My hobbies include reading manga and playing basketball
+- 🌿 I am currently studying Multiplatform Software Development at Fatec Registro.
+- 🦕 Java, Python, and Typescript.
+- 🦐 My hobbies include reading manga and playing basketball.
 
 <hr>
 <div align="center">
