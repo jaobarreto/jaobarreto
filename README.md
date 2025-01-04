@@ -28,7 +28,7 @@
 
  <hr>
 <div align="center">
-<img height="300px" src="https://pa1.aminoapps.com/6996/d2246a441e14e002b4273afd8661305fa371dce5r1-500-281_hq.gif"/>
+<img height="300px" src="https://giffiles.alphacoders.com/221/221987.gif"/>
 </div>
 
 <br clear="both">
