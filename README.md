@@ -1,7 +1,7 @@
 # 💻 Hello, my name is João Barreto
 
 - 🌿 I am currently studying Multiplatform Software Development at Fatec Registro.
-- 🦕  Node.js | NestJS | FastAPI | Docker | Jest | Prisma | PostgreSQL | MongoDB | AWS
+- 🦕  Node.js | NestJS | Docker | Jest | Prisma | PostgreSQL | MongoDB | AWS
 - 🍉 Cloud Computing ☁️ | IoT 🔗 | IA 🤖
 - 🦐 My hobbies include reading manga and playing basketball.
 
