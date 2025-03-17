@@ -1,7 +1,7 @@
 # 💻 Hello, my name is João Barreto
 
 - 🌿 I am currently studying Multiplatform Software Development at Fatec Registro.
-- 🦕  Node.js & NestJS | Docker | Jest | Prisma | PostgreSQL | MongoDB | AWS
+- 🦕  Node.js & NestJS |Java & Spring| Docker | Jest | Prisma | PostgreSQL | MongoDB | AWS
 - 🍉 Cloud Computing ☁️ | IoT 🔗 | IA 🤖
 - 🦐 My hobbies include reading manga and playing basketball.
 
@@ -13,7 +13,7 @@
 <div align="left">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,java,py,ts,js,nodejs,nestjs,jest,mongodb,mysql,postgres,redis" />
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,java,py,ts,js,spring,nodejs,nestjs,jest,mongodb,mysql,postgres,redis" />
   </a>
   </p>
 </div>
