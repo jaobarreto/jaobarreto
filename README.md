@@ -2,7 +2,7 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="3%" /> I am currently studying **Multiplatform Software Development** at Fatec Registro.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sauropod.png" alt="Sauropod" width="3%" /> Skills: 
-  - **Node.js & NestJS** | **Java & Spring** | **Docker** | **Jest** | **Prisma** | **PostgreSQL** | **MongoDB** | **AWS**
+   **Node.js & NestJS** | **Java & Spring** | **Docker** | **Jest** | **Prisma** | **PostgreSQL** | **MongoDB** | **AWS**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Tornado.png" alt="Tornado" width="25" height="25" width="3%" /> Areas of Interest: **Cloud Computing** | **IoT** | **Artificial Intelligence**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Shrimp.png" alt="Shrimp" width="3%" /> My hobbies include reading manga and playing basketball.
 
