@@ -1,45 +1,65 @@
-# 💻 Hello, my name is João Barreto
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="3%" /> I am currently studying **Multiplatform Software Development** at Fatec Registro.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sauropod.png" alt="Sauropod" width="3%" /> Skills: 
-   **Node.js & NestJS** | **Java & Spring** | **Docker** | **Jest** | **Prisma** | **PostgreSQL** | **MongoDB** | **AWS**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Tornado.png" alt="Tornado" width="25" height="25" width="3%" /> Areas of Interest: **Cloud Computing** | **IoT** | **Artificial Intelligence**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Shrimp.png" alt="Shrimp" width="3%" /> My hobbies include reading manga and playing basketball.
-
----
-
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaobarreto&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide_title=true" alt="GitHub Stats">
+  
+# Hi, I'm João Barreto
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+
 </div>
 
-
-
 ---
 
-### 🚀 Technologies and Tools
+## About Me
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,java,python,typescript,javascript,html,css,nodejs,nestjs,react,spring,flask,jest,tailwind,graphql,mongodb,mysql,postgres,redis" />
-</a>
+Currently studying **Multiplatform Software Development** at Fatec Registro, I'm passionate about building scalable solutions and exploring cutting-edge technologies. When I'm not coding, you'll find me reading manga or playing basketball.
 
+<div align="right">
+  trocar depois
+</div>
 
----
+## Tech Stack
 
-### Connect with Me
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+## Areas of Interest
+
+trocar depois
+
+```typescript
+const interests = {
+  cloudComputing: ["AWS", "Serverless", "Microservices"],
+  iot: ["Edge Computing", "Sensor Networks"],
+  ai: ["Machine Learning", "Automation"]
+};
+```
+
+<br clear="right"/>
+
+## GitHub Stats
 
 <div align="center">
-  <a href="https://www.instagram.com/akabarreto/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" />
-  </a>
-  <a href="https://www.linkedin.com/in/jaobarreto01/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=onedark&showIcons=false&preferLogin=true">
+    <img alt="jaobarreto's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jaobarreto?cardType=level&theme=onedark&showIcons=false&preferLogin=true" />
   </a>
 </div>
 
-
----
+## Let's Connect
 
 <div align="center">
-  <img height="300px" src="https://giffiles.alphacoders.com/221/221987.gif" alt="Gif"/>
+  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akabarreto/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaobarreto01/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaobarretoprof@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaobarreto)
+
 </div>
 
