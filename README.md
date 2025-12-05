@@ -2,7 +2,7 @@
   
 # Hi, I'm João Barreto
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Enthusiast;" alt="Typing SVG" />
 
 </div>
 
@@ -12,8 +12,8 @@
 
 Currently studying **Multiplatform Software Development** at Fatec Registro, I'm passionate about building scalable solutions and exploring cutting-edge technologies. When I'm not coding, you'll find me reading manga or playing basketball.
 
-<div align="right">
-  trocar depois
+<div align="right" style="max-width: 200px;">
+  <img src="./images/cat-pc.png" width="150" alt="Cat coding">
 </div>
 
 ## Tech Stack
@@ -32,7 +32,9 @@ Currently studying **Multiplatform Software Development** at Fatec Registro, I'm
 
 ## Areas of Interest
 
-trocar depois
+<div style="max-width: 150px; float: right; margin-left: 20px;">
+  <img src="./images/cat-sword.png" width="130" alt="Cat with sword">
+</div>
 
 ```typescript
 const interests = {
@@ -48,7 +50,7 @@ const interests = {
 
 <div align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=onedark&showIcons=false&preferLogin=true">
-    <img alt="jaobarreto's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jaobarreto?cardType=level&theme=onedark&showIcons=false&preferLogin=true" />
+    <img alt="jaobarreto's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jaobarreto?cardType=level&theme=onedark&showIcons=false&preferLogin=true" width="400" />
   </a>
 </div>
 
