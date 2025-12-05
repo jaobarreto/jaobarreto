@@ -13,7 +13,7 @@
 Currently studying **Multiplatform Software Development** at Fatec Registro, I'm passionate about building scalable solutions and exploring cutting-edge technologies. When I'm not coding, you'll find me reading manga or playing basketball.
 
 <div align="right">
-  <img src="./images/cat-pc.png" width="100" alt="Cat coding">
+  <img src="./images/cat-pc.png" width="180" alt="Cat coding">
 </div>
 
 ## Tech Stack
@@ -32,7 +32,7 @@ Currently studying **Multiplatform Software Development** at Fatec Registro, I'm
 
 ## Areas of Interest
 
-<img align="right" src="./images/cat-sword.png" width="80" alt="Cat with sword">
+<img align="right" src="./images/cat-sword.png" width="140" alt="Cat with sword">
 
 ```typescript
 const interests = {
